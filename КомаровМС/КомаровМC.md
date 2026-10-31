@@ -1,5 +1,4 @@
 
-
 # Отчёт 1
 
 **Тема:** Основы Git и совместной разработки на GitHub
@@ -49,7 +48,7 @@
 + git remote
 + git reset
 + git revert
-+ git stah
++ git stash
 
 ## Чему научился
 
@@ -57,7 +56,9 @@
 
 Курс сложности Beginner
 
-![[gitmastery.png]]
+![Beginner](gitmastery.png) 
 
 Курс сложности Advanced
-![[gitmastery2.png]]
+
+
+![Advanced](gitmastery2.png)
